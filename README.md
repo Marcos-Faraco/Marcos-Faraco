@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é Marcos Antonio Faraco, tenho 45 anos e sou um programador Front End, tendo completado os módulos de:
+Meu nome é Marcos Antonio Faraco, tenho 46 anos e sou um programador Front End, tendo completado os módulos de:
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
