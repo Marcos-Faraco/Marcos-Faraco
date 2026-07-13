@@ -13,6 +13,8 @@ Meu nome é Marcos Antonio Faraco, tenho 46 anos e sou um programador Front End,
 e começando a estudar sobre:
 <br/>
 <br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7A2q0L9dlXfJXCJCjReqddN1WmzH7LJJMyGs8xBjoQ&s" alt="node-logo" width="128px" height="80px"/>
+<br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="128px" height="28px"/>
 <br/>
 <br/>
